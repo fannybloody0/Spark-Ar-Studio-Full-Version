@@ -258,4 +258,4 @@ This repository serves as the official landing page for Spark AR Studio. The sof
 **Get the most recent version of Spark AR Studio today!**
 
 ---
-**Last updated:** 2026-09-18 22:13:04 UTC
+**Last updated:** 2026-09-19 00:55:16 UTC
